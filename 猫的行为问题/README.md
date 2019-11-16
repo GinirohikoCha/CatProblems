@@ -1,8 +1,10 @@
 # 猫行为问题
 ## 前言
-(转自微博[@Jitbibi](https://weibo.com/1912422243/I6Rrbdtf0),进行了一些补充和优化)
+(转自微博[@Jitbibi](https://weibo.com/1912422243/I6Rrbdtf0),进行了一些补充和优化,同时对一些文章和内容进行了截图备份,以防链接失效等情况)
 > 总结一下各位大佬写的【猫行为问题】的笔记～
+> 
 > 有图 有视频 有文章，欢迎取阅～会保持更新！
+> 
 > ⚠️首要原则：科学训练纠正，拒绝打骂处罚。
 ### 目录
 - 图片内容
@@ -13,6 +15,6 @@
 	* [【猫行为基础】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E8%A1%8C%E4%B8%BA%E5%9F%BA%E7%A1%80.md)
 	* [【如何避免养一只坏猫】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%85%BB%E4%B8%80%E5%8F%AA%E5%9D%8F%E7%8C%AB.md)
 	* 【猫总是半夜醒 半夜叫 为何&怎么办】
-		+ 为什么我的猫总在半夜醒来
-		+ 猫研所CARE
+		+ [为什么我的猫总在半夜醒来](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E3%80%90%E7%8C%AB%E6%80%BB%E6%98%AF%E5%8D%8A%E5%A4%9C%E9%86%92%20%E5%8D%8A%E5%A4%9C%E5%8F%AB%20%E4%B8%BA%E4%BD%95%26%E6%80%8E%E4%B9%88%E5%8A%9E%E3%80%91.jpg)
+		+ [猫半夜叫](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E5%8D%8A%E5%A4%9C%E5%8F%AB.md)
 	*【乱排泄（乱尿/乱拉）】
