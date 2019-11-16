@@ -43,4 +43,5 @@ __猫个体有殊异,请带着自己的判断,勿盲信所有科普,因猫而异
 	* 猫为什么抓我咬我
 	* [猫攻击性行为](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E3%80%90%E7%8C%AB%E6%94%BB%E5%87%BB%E6%80%A7%E8%A1%8C%E4%B8%BA%E3%80%91.jpg)
 - 【如何让猫咪认识到错误 并改正】
+- 【打过猫 后悔 怎么办】
 #### 还在更新中
