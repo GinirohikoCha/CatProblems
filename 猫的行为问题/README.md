@@ -24,3 +24,6 @@
 	* [猫咪为何乱拉尿——上集](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E5%92%AA%E4%B8%BA%E4%BD%95%E4%B9%B1%E6%8B%89%E5%B0%BF%E2%80%94%E2%80%94%E4%B8%8A%E9%9B%86.md)
 	* [猫咪为何乱拉尿——下集](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E5%92%AA%E4%B8%BA%E4%BD%95%E4%B9%B1%E6%8B%89%E5%B0%BF%E2%80%94%E2%80%94%E4%B8%8B%E9%9B%86.md)
 	* [尿床](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E5%B0%BF%E5%BA%8A.md)
+- 【猫砂盘的选择 &数量 &摆放】
+	* 您的猫砂盆合格吗？
+	* [【猫砂盘的选择 &数量 &摆放】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E3%80%90%E7%8C%AB%E7%A0%82%E7%9B%98%E7%9A%84%E9%80%89%E6%8B%A9%20%26%E6%95%B0%E9%87%8F%20%26%E6%91%86%E6%94%BE%E3%80%91.jpg)
