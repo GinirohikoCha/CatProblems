@@ -49,5 +49,6 @@ __猫个体有殊异,请带着自己的判断,勿盲信所有科普,因猫而异
 	* [溜貓](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E6%BA%9C%E8%B2%93.md)
 	* 如何教猫用牵引绳下散步
 	* 大光头谈遛猫
-
+	* 遛猫？ 击破你的担心+装备推荐一条龙🈯️北
+	* 
 #### 还在更新中
