@@ -47,6 +47,6 @@ __猫个体有殊异,请带着自己的判断,勿盲信所有科普,因猫而异
 - [【为什么要训练猫➕响片训练】](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AE%AD%E7%BB%83%E7%8C%AB%E2%9E%95%E5%93%8D%E7%89%87%E8%AE%AD%E7%BB%83.md)
 - 【为何&如何正确遛猫】
 	* [溜貓](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E6%BA%9C%E8%B2%93.md)
-
+	* 如何教猫用牵引绳下散步
 
 #### 还在更新中
