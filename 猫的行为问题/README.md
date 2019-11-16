@@ -17,4 +17,5 @@
 	* [为什么我的猫总在半夜醒来](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E3%80%90%E7%8C%AB%E6%80%BB%E6%98%AF%E5%8D%8A%E5%A4%9C%E9%86%92%20%E5%8D%8A%E5%A4%9C%E5%8F%AB%20%E4%B8%BA%E4%BD%95%26%E6%80%8E%E4%B9%88%E5%8A%9E%E3%80%91.jpg)
 	* [猫半夜叫](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E5%8D%8A%E5%A4%9C%E5%8F%AB.md)
 - 【乱排泄（乱尿/乱拉）】
-	* 猫行为——室内排泄怎么破？
+	* [猫行为——室内排泄怎么破？](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E8%A1%8C%E4%B8%BA%E2%80%94%E2%80%94%E5%AE%A4%E5%86%85%E6%8E%92%E6%B3%84%E6%80%8E%E4%B9%88%E7%A0%B4%EF%BC%9F.md)
+	* 乱尿乱抓还打架？——猫咪压力太大啦！Ted医生教你营造猫咪无压环境
