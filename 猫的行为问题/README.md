@@ -1,6 +1,10 @@
 # 猫行为问题
 ## 前言
-(转自微博[@Jitbibi](https://weibo.com/1912422243/I6Rrbdtf0),进行了一些补充和优化,同时对一些文章和内容进行了截图备份,以防链接失效等情况)
+(本篇转自微博[@Jitbibi](https://weibo.com/1912422243/I6Rrbdtf0)的科普总结,进行了一些整理和优化,以供查阅.非原创内容均使用引用记号,并标注了原文链接,可点击蓝色链接进入原文)
+
+同时对一些文章和内容进行了截图备份,防止链接失效等情况
+
+**猫个体有殊异,请带着自己的判断,勿盲信所有科普**
 > 总结一下各位大佬写的【猫行为问题】的笔记～
 > 
 > 有图 有视频 有文章，欢迎取阅～会保持更新！
@@ -25,5 +29,7 @@
 	* [猫咪为何乱拉尿——下集](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E5%92%AA%E4%B8%BA%E4%BD%95%E4%B9%B1%E6%8B%89%E5%B0%BF%E2%80%94%E2%80%94%E4%B8%8B%E9%9B%86.md)
 	* [尿床](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E5%B0%BF%E5%BA%8A.md)
 - 【猫砂盘的选择 &数量 &摆放】
-	* 您的猫砂盆合格吗？
-	* [【猫砂盘的选择 &数量 &摆放】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E3%80%90%E7%8C%AB%E7%A0%82%E7%9B%98%E7%9A%84%E9%80%89%E6%8B%A9%20%26%E6%95%B0%E9%87%8F%20%26%E6%91%86%E6%94%BE%E3%80%91.jpg)
+	* [您的猫砂盆合格吗？](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E6%82%A8%E7%9A%84%E7%8C%AB%E7%A0%82%E7%9B%86%E5%90%88%E6%A0%BC%E5%90%97%EF%BC%9F.md)
+	* [猫砂盘的选择 &数量 &摆放](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E3%80%90%E7%8C%AB%E7%A0%82%E7%9B%98%E7%9A%84%E9%80%89%E6%8B%A9%20%26%E6%95%B0%E9%87%8F%20%26%E6%91%86%E6%94%BE%E3%80%91.jpg)
+
+#### 还在更新中
