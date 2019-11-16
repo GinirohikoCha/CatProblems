@@ -34,6 +34,7 @@ __猫个体有殊异,请带着自己的判断,勿盲信所有科普,因猫而异
 - 【猫砂盘的选择 &数量 &摆放】
 	* [您的猫砂盆合格吗？](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E6%82%A8%E7%9A%84%E7%8C%AB%E7%A0%82%E7%9B%86%E5%90%88%E6%A0%BC%E5%90%97%EF%BC%9F.md)
 	* [猫砂盘的选择 &数量 &摆放](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E3%80%90%E7%8C%AB%E7%A0%82%E7%9B%98%E7%9A%84%E9%80%89%E6%8B%A9%20%26%E6%95%B0%E9%87%8F%20%26%E6%91%86%E6%94%BE%E3%80%91.jpg)
-- 【猫砂的选择】
+- [【猫砂的选择】](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E7%A0%82%E7%9A%84%E9%80%89%E6%8B%A9.md)
+- 【为什么说大部分太空舱猫包不好】
 
 #### 还在更新中
