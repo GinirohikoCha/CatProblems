@@ -26,7 +26,7 @@ __猫个体有殊异,请带着自己的判断,勿盲信所有科普,因猫而异
 - 【乱排泄（乱尿/乱拉）】
 	* [猫行为——室内排泄怎么破？](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E8%A1%8C%E4%B8%BA%E2%80%94%E2%80%94%E5%AE%A4%E5%86%85%E6%8E%92%E6%B3%84%E6%80%8E%E4%B9%88%E7%A0%B4%EF%BC%9F.md)
 	* [乱尿乱抓还打架？——猫咪压力太大啦！Ted医生教你营造猫咪无压环境](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E4%B9%B1%E5%B0%BF%E4%B9%B1%E6%8A%93%E8%BF%98%E6%89%93%E6%9E%B6%EF%BC%9F%E2%80%94%E2%80%94%E7%8C%AB%E5%92%AA%E5%8E%8B%E5%8A%9B%E5%A4%AA%E5%A4%A7%E5%95%A6%EF%BC%81Ted%E5%8C%BB%E7%94%9F%E6%95%99%E4%BD%A0%E8%90%A5%E9%80%A0%E7%8C%AB%E5%92%AA%E6%97%A0%E5%8E%8B%E7%8E%AF%E5%A2%83.md)
-	* [“我的猫又随地拉屎撒尿了！”Why & How](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E2%80%9C%E6%88%91%E7%9A%84%E7%8C%AB%E5%8F%88%E9%9A%8F%E5%9C%B0%E6%8B%89%E5%B1%8E%E6%92%92%E5%B0%BF%E4%BA%86%EF%BC%81%E2%80%9DWhy%26How.md)
+	* [我的猫又随地拉屎撒尿了！Why & How](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E6%88%91%E7%9A%84%E7%8C%AB%E5%8F%88%E9%9A%8F%E5%9C%B0%E6%8B%89%E5%B1%8E%E6%92%92%E5%B0%BF%E4%BA%86%EF%BC%81Why%26How.md)
 	* [解决猫乱尿速成！](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E8%A7%A3%E5%86%B3%E7%8C%AB%E4%B9%B1%E5%B0%BF%E9%80%9F%E6%88%90%EF%BC%81.md)
 	* [猫咪为何乱拉尿——上集](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E5%92%AA%E4%B8%BA%E4%BD%95%E4%B9%B1%E6%8B%89%E5%B0%BF%E2%80%94%E2%80%94%E4%B8%8A%E9%9B%86.md)
 	* [猫咪为何乱拉尿——下集](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E5%92%AA%E4%B8%BA%E4%BD%95%E4%B9%B1%E6%8B%89%E5%B0%BF%E2%80%94%E2%80%94%E4%B8%8B%E9%9B%86.md)
@@ -37,8 +37,8 @@ __猫个体有殊异,请带着自己的判断,勿盲信所有科普,因猫而异
 - [【猫砂的选择】](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E7%A0%82%E7%9A%84%E9%80%89%E6%8B%A9.md)
 - 【为什么说大部分太空舱猫包不好】
 - 【猫破坏房屋（拆家）】
-	* 【Laura猫行为课程】【笔记记事（一）猫破坏房屋相关内容】
+	* [【Laura猫行为课程】【笔记记事（一）猫破坏房屋相关内容】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E8%A1%8C%E4%B8%BA%E8%AF%BE%E7%A8%8BLaura%20-%20%E7%AC%94%E8%AE%B0%E8%AE%B0%E4%BA%8B%EF%BC%88%E4%B8%80%EF%BC%89%E7%8C%AB%E7%A0%B4%E5%9D%8F%E6%88%BF%E5%B1%8B%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9.md)
 - 【猫攻击性行为】
-	*　猫行为——史上“暂时”最全的猫攻击思维导图！！！ 
+	* [猫行为——史上“暂时”最全的猫攻击思维导图！！！ ](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E8%A1%8C%E4%B8%BA%E2%80%94%E2%80%94%E5%8F%B2%E4%B8%8A%E2%80%9C%E6%9A%82%E6%97%B6%E2%80%9D%E6%9C%80%E5%85%A8%E7%9A%84%E7%8C%AB%E6%94%BB%E5%87%BB%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%EF%BC%81%EF%BC%81%EF%BC%81%20.md)
 
 #### 还在更新中
