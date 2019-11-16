@@ -40,13 +40,13 @@ __猫个体有殊异,请带着自己的判断,勿盲信所有科普,因猫而异
 	* [【Laura猫行为课程】【笔记记事（一）猫破坏房屋相关内容】](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E8%A1%8C%E4%B8%BA%E8%AF%BE%E7%A8%8BLaura%20-%20%E7%AC%94%E8%AE%B0%E8%AE%B0%E4%BA%8B%EF%BC%88%E4%B8%80%EF%BC%89%E7%8C%AB%E7%A0%B4%E5%9D%8F%E6%88%BF%E5%B1%8B%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9.md)
 - 【猫攻击性行为】
 	* [猫行为——史上“暂时”最全的猫攻击思维导图！！！ ](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E8%A1%8C%E4%B8%BA%E2%80%94%E2%80%94%E5%8F%B2%E4%B8%8A%E2%80%9C%E6%9A%82%E6%97%B6%E2%80%9D%E6%9C%80%E5%85%A8%E7%9A%84%E7%8C%AB%E6%94%BB%E5%87%BB%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%EF%BC%81%EF%BC%81%EF%BC%81%20.md)
-	* 猫为什么抓我咬我
+	* [猫为什么抓我咬我](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%93%E6%88%91%E5%92%AC%E6%88%91.md)
 	* [猫攻击性行为](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E3%80%90%E7%8C%AB%E6%94%BB%E5%87%BB%E6%80%A7%E8%A1%8C%E4%B8%BA%E3%80%91.jpg)
-- 【如何让猫咪认识到错误 并改正】
-- 【打过猫 后悔 怎么办】
-- 【为什么要训练猫➕响片训练】
+- [【如何让猫咪认识到错误 并改正】](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E5%A6%82%E4%BD%95%E8%AE%A9%E7%8C%AB%E5%92%AA%E8%AE%A4%E8%AF%86%E5%88%B0%E9%94%99%E8%AF%AF%E5%B9%B6%E6%94%B9%E6%AD%A3.md)
+- [【打过猫 后悔 怎么办】](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E6%89%93%E8%BF%87%E7%8C%AB%20%E5%90%8E%E6%82%94%20%E6%80%8E%E4%B9%88%E5%8A%9E.md)
+- [【为什么要训练猫➕响片训练】](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AE%AD%E7%BB%83%E7%8C%AB%E2%9E%95%E5%93%8D%E7%89%87%E8%AE%AD%E7%BB%83.md)
 - 【为何&如何正确遛猫】
-	* 溜貓
+	* [溜貓](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E6%BA%9C%E8%B2%93.md)
 
 
 #### 还在更新中
