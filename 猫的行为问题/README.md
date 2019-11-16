@@ -20,4 +20,6 @@
 	* [猫行为——室内排泄怎么破？](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E8%A1%8C%E4%B8%BA%E2%80%94%E2%80%94%E5%AE%A4%E5%86%85%E6%8E%92%E6%B3%84%E6%80%8E%E4%B9%88%E7%A0%B4%EF%BC%9F.md)
 	* [乱尿乱抓还打架？——猫咪压力太大啦！Ted医生教你营造猫咪无压环境](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E4%B9%B1%E5%B0%BF%E4%B9%B1%E6%8A%93%E8%BF%98%E6%89%93%E6%9E%B6%EF%BC%9F%E2%80%94%E2%80%94%E7%8C%AB%E5%92%AA%E5%8E%8B%E5%8A%9B%E5%A4%AA%E5%A4%A7%E5%95%A6%EF%BC%81Ted%E5%8C%BB%E7%94%9F%E6%95%99%E4%BD%A0%E8%90%A5%E9%80%A0%E7%8C%AB%E5%92%AA%E6%97%A0%E5%8E%8B%E7%8E%AF%E5%A2%83.md)
 	* [“我的猫又随地拉屎撒尿了！”Why & How](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E2%80%9C%E6%88%91%E7%9A%84%E7%8C%AB%E5%8F%88%E9%9A%8F%E5%9C%B0%E6%8B%89%E5%B1%8E%E6%92%92%E5%B0%BF%E4%BA%86%EF%BC%81%E2%80%9DWhy%26How.md)
-	* 解决猫乱尿速成！
+	* [解决猫乱尿速成！](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E8%A7%A3%E5%86%B3%E7%8C%AB%E4%B9%B1%E5%B0%BF%E9%80%9F%E6%88%90%EF%BC%81.md)
+	* 猫咪为何乱拉尿——上集
+	* 猫咪为何乱拉尿——下集
