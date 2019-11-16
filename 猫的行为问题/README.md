@@ -11,7 +11,7 @@
 	* [【猫的身体语言】](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E3%80%90%E7%8C%AB%E7%9A%84%E8%BA%AB%E4%BD%93%E8%AF%AD%E8%A8%80%E3%80%91.jpg)
 - 文章链接
 	* [【猫行为基础】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E8%A1%8C%E4%B8%BA%E5%9F%BA%E7%A1%80.md)
-	* 【如何避免养一只坏猫】
+	* [【如何避免养一只坏猫】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%85%BB%E4%B8%80%E5%8F%AA%E5%9D%8F%E7%8C%AB.md)
 	* 【猫总是半夜醒 半夜叫 为何&怎么办】
 		+ 为什么我的猫总在半夜醒来
 		+ 猫研所CARE
