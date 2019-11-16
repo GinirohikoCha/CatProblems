@@ -41,5 +41,6 @@ __猫个体有殊异,请带着自己的判断,勿盲信所有科普,因猫而异
 - 【猫攻击性行为】
 	* [猫行为——史上“暂时”最全的猫攻击思维导图！！！ ](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E8%A1%8C%E4%B8%BA%E2%80%94%E2%80%94%E5%8F%B2%E4%B8%8A%E2%80%9C%E6%9A%82%E6%97%B6%E2%80%9D%E6%9C%80%E5%85%A8%E7%9A%84%E7%8C%AB%E6%94%BB%E5%87%BB%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%EF%BC%81%EF%BC%81%EF%BC%81%20.md)
 	* 猫为什么抓我咬我
-
+	* [猫攻击性行为](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E3%80%90%E7%8C%AB%E6%94%BB%E5%87%BB%E6%80%A7%E8%A1%8C%E4%B8%BA%E3%80%91.jpg)
+- 【如何让猫咪认识到错误 并改正】
 #### 还在更新中
