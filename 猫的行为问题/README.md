@@ -4,6 +4,8 @@
 
 同时对一些文章和内容进行了截图备份,防止链接失效等情况
 
+部分内容不排除广告嫌疑,出现安利种草向的请自行斟酌购买
+
 *************
 __猫个体有殊异,请带着自己的判断,勿盲信所有科普,因猫而异__
 *************
@@ -47,8 +49,17 @@ __猫个体有殊异,请带着自己的判断,勿盲信所有科普,因猫而异
 - [【为什么要训练猫➕响片训练】](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AE%AD%E7%BB%83%E7%8C%AB%E2%9E%95%E5%93%8D%E7%89%87%E8%AE%AD%E7%BB%83.md)
 - 【为何&如何正确遛猫】
 	* [溜貓](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E6%BA%9C%E8%B2%93.md)
-	* 如何教猫用牵引绳下散步
-	* 大光头谈遛猫
-	* 遛猫？ 击破你的担心+装备推荐一条龙🈯️北
-	* 
+	* [如何教猫用牵引绳下散步](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E5%A6%82%E4%BD%95%E6%95%99%E7%8C%AB%E7%94%A8%E7%89%B5%E5%BC%95%E7%BB%B3%E4%B8%8B%E6%95%A3%E6%AD%A5.md)
+	* [大光头谈遛猫](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E5%A4%A7%E5%85%89%E5%A4%B4%E8%B0%88%E9%81%9B%E7%8C%AB.md)
+	* [遛猫？ 击破你的担心+装备推荐一条龙🈯️北](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E9%81%9B%E7%8C%AB%EF%BC%9F%20%E5%87%BB%E7%A0%B4%E4%BD%A0%E7%9A%84%E6%8B%85%E5%BF%83%2B%E8%A3%85%E5%A4%87%E6%8E%A8%E8%8D%90%E4%B8%80%E6%9D%A1%E9%BE%99%F0%9F%88%AF%EF%B8%8F%E5%8C%97.md)
+- 【训练航空箱外出】
+	* [猫行为——如何摆平抗拒航空箱和赛笼的猫咪！！！](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E8%A1%8C%E4%B8%BA%E2%80%94%E2%80%94%E5%A6%82%E4%BD%95%E6%91%86%E5%B9%B3%E6%8A%97%E6%8B%92%E8%88%AA%E7%A9%BA%E7%AE%B1%E5%92%8C%E8%B5%9B%E7%AC%BC%E7%9A%84%E7%8C%AB%E5%92%AA%EF%BC%81%EF%BC%81%EF%BC%81.md)
+	* [教学（第一阶段）](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E8%AE%AD%E7%BB%83%E8%88%AA%E7%A9%BA%E7%AE%B1%E5%A4%96%E5%87%BA%E6%95%99%E5%AD%A6%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5.md)
+	* [（第二阶段）](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E8%AE%AD%E7%BB%83%E8%88%AA%E7%A9%BA%E7%AE%B1%E5%A4%96%E5%87%BA%E6%95%99%E5%AD%A6%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5.md)
+	* [（第三阶段）](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E8%AE%AD%E7%BB%83%E8%88%AA%E7%A9%BA%E7%AE%B1%E5%A4%96%E5%87%BA%E6%95%99%E5%AD%A6%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5.md)
+- 【训练刷牙】
+	* [给猫刷牙？！听着离谱，但我们还是希望你试试看！](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%BB%99%E7%8C%AB%E5%88%B7%E7%89%99%EF%BC%9F%EF%BC%81%E5%90%AC%E7%9D%80%E7%A6%BB%E8%B0%B1%EF%BC%8C%E4%BD%86%E6%88%91%E4%BB%AC%E8%BF%98%E6%98%AF%E5%B8%8C%E6%9C%9B%E4%BD%A0%E8%AF%95%E8%AF%95%E7%9C%8B%EF%BC%81.md)
+- 【清洁耳朵 滴药】
+	* 耳朵滴药示范
+
 #### 还在更新中
