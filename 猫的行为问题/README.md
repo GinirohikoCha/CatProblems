@@ -60,6 +60,8 @@ __猫个体有殊异,请带着自己的判断,勿盲信所有科普,因猫而异
 - 【训练刷牙】
 	* [给猫刷牙？！听着离谱，但我们还是希望你试试看！](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%BB%99%E7%8C%AB%E5%88%B7%E7%89%99%EF%BC%9F%EF%BC%81%E5%90%AC%E7%9D%80%E7%A6%BB%E8%B0%B1%EF%BC%8C%E4%BD%86%E6%88%91%E4%BB%AC%E8%BF%98%E6%98%AF%E5%B8%8C%E6%9C%9B%E4%BD%A0%E8%AF%95%E8%AF%95%E7%9C%8B%EF%BC%81.md)
 - 【清洁耳朵 滴药】
-	* 耳朵滴药示范
+	* [耳朵滴药示范](https://github.com/GinirohikoCha/CatProblems/blob/master/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E8%80%B3%E6%9C%B5%E6%BB%B4%E8%8D%AF%E7%A4%BA%E8%8C%83.md)
+- 【为什么尽量不要给猫洗澡】
+	* 【Laura猫行为课程】【笔记记事（二）猫的卫生，猫需要洗澡吗？】 
 
 #### 还在更新中
