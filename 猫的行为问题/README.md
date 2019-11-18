@@ -4,6 +4,8 @@
 
 同时对一些文章和内容进行了截图备份,防止链接失效等情况
 
+部分内容不排除广告嫌疑,出现安利种草向的请自行斟酌购买
+
 *************
 __猫个体有殊异,请带着自己的判断,勿盲信所有科普,因猫而异__
 *************
@@ -57,6 +59,7 @@ __猫个体有殊异,请带着自己的判断,勿盲信所有科普,因猫而异
 	* [（第三阶段）](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E8%AE%AD%E7%BB%83%E8%88%AA%E7%A9%BA%E7%AE%B1%E5%A4%96%E5%87%BA%E6%95%99%E5%AD%A6%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5.md)
 - 【训练刷牙】
 	* [给猫刷牙？！听着离谱，但我们还是希望你试试看！](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%BB%99%E7%8C%AB%E5%88%B7%E7%89%99%EF%BC%9F%EF%BC%81%E5%90%AC%E7%9D%80%E7%A6%BB%E8%B0%B1%EF%BC%8C%E4%BD%86%E6%88%91%E4%BB%AC%E8%BF%98%E6%98%AF%E5%B8%8C%E6%9C%9B%E4%BD%A0%E8%AF%95%E8%AF%95%E7%9C%8B%EF%BC%81.md)
-
+- 【清洁耳朵 滴药】
+	* 耳朵滴药示范
 
 #### 还在更新中
