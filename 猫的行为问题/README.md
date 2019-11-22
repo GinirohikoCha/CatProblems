@@ -65,25 +65,26 @@ __猫个体有殊异,请带着自己的判断,勿盲信所有科普,因猫而异
 	* [【Laura猫行为课程】【笔记记事（二）猫的卫生，猫需要洗澡吗？】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E8%A1%8C%E4%B8%BA%E8%AF%BE%E7%A8%8BLaura%20-%20%E7%AC%94%E8%AE%B0%E8%AE%B0%E4%BA%8B%EF%BC%88%E4%BA%8C%EF%BC%89%E7%8C%AB%E7%9A%84%E5%8D%AB%E7%94%9F%EF%BC%8C%E7%8C%AB%E9%9C%80%E8%A6%81%E6%B4%97%E6%BE%A1%E5%90%97%EF%BC%9F.md)
 	* [猫咪是能不洗澡，就不洗澡，条件允许的话，一辈子不洗澡也可以。](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E5%92%AA%E6%98%AF%E8%83%BD%E4%B8%8D%E6%B4%97%E6%BE%A1%EF%BC%8C%E5%B0%B1%E4%B8%8D%E6%B4%97%E6%BE%A1%EF%BC%8C%E6%9D%A1%E4%BB%B6%E5%85%81%E8%AE%B8%E7%9A%84%E8%AF%9D%EF%BC%8C%E4%B8%80%E8%BE%88%E5%AD%90%E4%B8%8D%E6%B4%97%E6%BE%A1%E4%B9%9F%E5%8F%AF%E4%BB%A5%E3%80%82.md)
 - 【喂药】
-	* 教您轻松喂猫咪吃药
-- 【训练猫不上餐桌】
-- 【训练坐下➕呼叫猫走过来】
-- 【猫为何吃草】
+	* [教您轻松喂猫咪吃药](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E6%95%99%E6%82%A8%E8%BD%BB%E6%9D%BE%E5%96%82%E7%8C%AB%E5%92%AA%E5%90%83%E8%8D%AF%20.md)
+- [【训练猫不上餐桌】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E5%92%AA%E4%B8%8A%E9%A4%90%E6%A1%8C.md)
+- [【训练坐下➕呼叫猫走过来】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E8%AE%AD%E7%BB%83%E5%9D%90%E4%B8%8B%E2%9E%95%E5%91%BC%E5%8F%AB%E7%8C%AB%E8%B5%B0%E8%BF%87%E6%9D%A5.md)
+- [【猫为何吃草】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E4%B8%BA%E4%BD%95%E5%90%83%E8%8D%89.md)
 - 【猫挑食、厌食】
-	* 厌食的猫咪？——怎样拯救你家不吃饭的病号
-	* 关于猫猫挑食
+	* [厌食的猫咪？——怎样拯救你家不吃饭的病号](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E5%8E%8C%E9%A3%9F%E7%9A%84%E7%8C%AB%E5%92%AA%EF%BC%9F%E2%80%94%E2%80%94%E6%80%8E%E6%A0%B7%E6%8B%AF%E6%95%91%E4%BD%A0%E5%AE%B6%E4%B8%8D%E5%90%83%E9%A5%AD%E7%9A%84%E7%97%85%E5%8F%B7.md)
+	* [关于猫猫挑食](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E5%85%B3%E4%BA%8E%E7%8C%AB%E7%8C%AB%E6%8C%91%E9%A3%9F.md)
 - 【猫只吃干粮，不吃罐头/肉 为何&怎么办】
-	* 为何诱食剂：没这玩意儿，你家毛孩子根本不会吃粮
-	* 怎么办我的猫不吃生骨肉！别急，我来教你
-- 【如何给猫剪指甲】
-- 【绝育能改变什么 不能改变什么】
+	* 为何[诱食剂：没这玩意儿，你家毛孩子根本不会吃粮](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E8%AF%B1%E9%A3%9F%E5%89%82%EF%BC%9A%E6%B2%A1%E8%BF%99%E7%8E%A9%E6%84%8F%E5%84%BF%EF%BC%8C%E4%BD%A0%E5%AE%B6%E6%AF%9B%E5%AD%A9%E5%AD%90%E6%A0%B9%E6%9C%AC%E4%B8%8D%E4%BC%9A%E5%90%83%E7%B2%AE.md)
+	* 怎么办[我的猫不吃生骨肉！别急，我来教你](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E6%88%91%E7%9A%84%E7%8C%AB%E4%B8%8D%E5%90%83%E7%94%9F%E9%AA%A8%E8%82%89%EF%BC%81%E5%88%AB%E6%80%A5%EF%BC%8C%E6%88%91%E6%9D%A5%E6%95%99%E4%BD%A0.md)
+- [【如何给猫剪指甲】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E5%A6%82%E4%BD%95%E7%BB%99%E7%8C%AB%E5%89%AA%E6%8C%87%E7%94%B2.md)
+- [【绝育能改变什么 不能改变什么】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%BB%9D%E8%82%B2%E5%8F%AF%E4%BB%A5%E6%94%B9%E5%8F%98%E4%BB%80%E4%B9%88%E4%BB%A5%E5%8F%8A%E4%B8%8D%E8%83%BD%E6%94%B9%E5%8F%98%E4%BB%80%E4%B9%88%EF%BC%9F.md)
 - 【新猫到家 怎么办】
-	* 新猫害怕怎么办
-	* 如何与原住民相处
+	* [新猫害怕怎么办](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E6%96%B0%E7%8C%AB%E5%AE%B3%E6%80%95%E6%80%8E%E4%B9%88%E5%8A%9E.md)
+	* [如何与原住民相处](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E5%A6%82%E4%BD%95%E4%B8%8E%E5%8E%9F%E4%BD%8F%E6%B0%91%E7%9B%B8%E5%A4%84.md)
 - 【猫丢失 如何找猫】
-	* 找猫十连！除了「剪刀大法」还有哪些方法可以找回丢失的猫？
-- 【猫爱你的表现】
-- 【关于应激反应】
-- 【feliway费洛蒙怎么用】
+	* [找猫十连！除了「剪刀大法」还有哪些方法可以找回丢失的猫？](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E6%89%BE%E7%8C%AB%E5%8D%81%E8%BF%9E%EF%BC%81%E9%99%A4%E4%BA%86%E3%80%8C%E5%89%AA%E5%88%80%E5%A4%A7%E6%B3%95%E3%80%8D%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B9%E6%B3%95%E5%8F%AF%E4%BB%A5%E6%89%BE%E5%9B%9E%E4%B8%A2%E5%A4%B1%E7%9A%84%E7%8C%AB%EF%BC%9F.md)
+- [【猫爱你的表现】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E7%88%B1%E4%BD%A0%E7%9A%84%E8%A1%A8%E7%8E%B0.md)
+- [【关于应激反应】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E5%85%B3%E4%BA%8E%E5%BA%94%E6%BF%80%E5%8F%8D%E5%BA%94.md)
+- [【feliway费洛蒙怎么用】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/feliway%E8%B4%B9%E6%B4%9B%E8%92%99%E6%80%8E%E4%B9%88%E7%94%A8.md)
+- 【关于老年痴呆】
 
 #### 还在更新中
