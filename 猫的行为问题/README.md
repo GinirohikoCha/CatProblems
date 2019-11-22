@@ -85,9 +85,7 @@ __猫个体有殊异,请带着自己的判断,勿盲信所有科普,因猫而异
 - [【猫爱你的表现】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E7%88%B1%E4%BD%A0%E7%9A%84%E8%A1%A8%E7%8E%B0.md)
 - [【关于应激反应】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E5%85%B3%E4%BA%8E%E5%BA%94%E6%BF%80%E5%8F%8D%E5%BA%94.md)
 - [【feliway费洛蒙怎么用】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/feliway%E8%B4%B9%E6%B4%9B%E8%92%99%E6%80%8E%E4%B9%88%E7%94%A8.md)
-- 【关于老年痴呆】
-- 【关于猫狗焦虑】
-- 【猫狗混养注意事项】
-- 【猫正向训练 （例如 开枪装shi）】
-
-#### 还在更新中
+- [【关于老年痴呆】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E5%85%B3%E4%BA%8E%E8%80%81%E5%B9%B4%E7%97%B4%E5%91%86.md)
+- [【关于猫狗焦虑】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E5%85%B3%E4%BA%8E%E7%8C%AB%E7%8B%97%E7%84%A6%E8%99%91.md)
+- [【猫狗混养注意事项】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E7%8B%97%E4%B8%80%E8%B5%B7%E7%94%9F%E6%B4%BB%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md)
+- [【猫正向训练 （例如 开枪装shi）】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E5%92%8C%E7%8C%AB%E5%92%AA%E4%BA%92%E5%8A%A8%E7%AE%80%E5%8D%95tips.md)
