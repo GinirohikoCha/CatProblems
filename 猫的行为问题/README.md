@@ -65,5 +65,6 @@ __猫个体有殊异,请带着自己的判断,勿盲信所有科普,因猫而异
 	* [【Laura猫行为课程】【笔记记事（二）猫的卫生，猫需要洗澡吗？】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E8%A1%8C%E4%B8%BA%E8%AF%BE%E7%A8%8BLaura%20-%20%E7%AC%94%E8%AE%B0%E8%AE%B0%E4%BA%8B%EF%BC%88%E4%BA%8C%EF%BC%89%E7%8C%AB%E7%9A%84%E5%8D%AB%E7%94%9F%EF%BC%8C%E7%8C%AB%E9%9C%80%E8%A6%81%E6%B4%97%E6%BE%A1%E5%90%97%EF%BC%9F.md)
 	* [猫咪是能不洗澡，就不洗澡，条件允许的话，一辈子不洗澡也可以。](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E7%8C%AB%E5%92%AA%E6%98%AF%E8%83%BD%E4%B8%8D%E6%B4%97%E6%BE%A1%EF%BC%8C%E5%B0%B1%E4%B8%8D%E6%B4%97%E6%BE%A1%EF%BC%8C%E6%9D%A1%E4%BB%B6%E5%85%81%E8%AE%B8%E7%9A%84%E8%AF%9D%EF%BC%8C%E4%B8%80%E8%BE%88%E5%AD%90%E4%B8%8D%E6%B4%97%E6%BE%A1%E4%B9%9F%E5%8F%AF%E4%BB%A5%E3%80%82.md)
 - 【喂药】
-	* 教您轻松喂猫咪吃药 
+	* 教您轻松喂猫咪吃药
+- 【训练猫不上餐桌】
 #### 还在更新中
