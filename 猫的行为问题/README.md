@@ -87,5 +87,7 @@ __猫个体有殊异,请带着自己的判断,勿盲信所有科普,因猫而异
 - [【feliway费洛蒙怎么用】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/feliway%E8%B4%B9%E6%B4%9B%E8%92%99%E6%80%8E%E4%B9%88%E7%94%A8.md)
 - 【关于老年痴呆】
 - 【关于猫狗焦虑】
+- 【猫狗混养注意事项】
+- 【猫正向训练 （例如 开枪装shi）】
 
 #### 还在更新中
