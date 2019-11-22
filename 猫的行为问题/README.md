@@ -86,5 +86,6 @@ __猫个体有殊异,请带着自己的判断,勿盲信所有科普,因猫而异
 - [【关于应激反应】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/%E5%85%B3%E4%BA%8E%E5%BA%94%E6%BF%80%E5%8F%8D%E5%BA%94.md)
 - [【feliway费洛蒙怎么用】](https://github.com/GinirohikoCha/CatProblems/blob/develop/%E7%8C%AB%E7%9A%84%E8%A1%8C%E4%B8%BA%E9%97%AE%E9%A2%98/feliway%E8%B4%B9%E6%B4%9B%E8%92%99%E6%80%8E%E4%B9%88%E7%94%A8.md)
 - 【关于老年痴呆】
+- 【关于猫狗焦虑】
 
 #### 还在更新中
